@@ -1,4 +1,4 @@
-# hello-world-python-PracticeOnboardingND
+# Mad Libs in Python
 
 This project is suggested to be done on the workspaces but I have the installation instructions if you would like to work on your local machine. 
 
@@ -14,3 +14,5 @@ This project is suggested to be done on the workspaces but I have the installati
 
 ---
 You shouldn't need any additional repositories.
+
+Additional support can be found here through [Udacity’s Intro to Programming in Python] (https://classroom.udacity.com/courses/ud1110/lessons/01465444-9f86-4b97-b1c5-2365ab00749b/concepts/fe3a8be9-705f-4c40-9c62-4ef6a3925bd4)
